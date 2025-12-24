@@ -6,8 +6,8 @@
 #include "REX/REX/Singleton.h"
 #include "SKSE/SKSE.h"
 
-#include "ClibUtil/simpleINI.hpp"
 #include "ClibUtil/editorID.hpp"
+#include "ClibUtil/simpleINI.hpp"
 #include <spdlog/sinks/basic_file_sink.h>
 
 #define DLLEXPORT __declspec(dllexport)
