@@ -1,0 +1,14 @@
+{
+  "name": "essentialsbegone",
+  "version-string": "1.0.0",
+  "description": "",
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": [
+    "clib-util",
+    "rsm-binary-io",
+    "spdlog",
+    "xbyak"
+  ],
+  "builtin-baseline": "edffab1bcd2cb5b8c17d6ba34d5651ea0bf82979"
+}
